@@ -1,0 +1,49 @@
+body{
+    background-image: url("ele.jpg");
+}
+
+button {
+    background-color:blue;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 50px;
+}
+
+li{
+    display: inline;
+}
+
+a{
+    color: red
+
+
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: blueviolet;
+}
+input[type=search] {
+    border-radius: 50px;
+    padding: 12px 20px;
+   
+}
+
+input[type=search]:focus {
+    background-color: lightblue;
+
+   
+}
+
+
+
+pre strong{
+    text-decoration: underline;
+    color: white
+
+}
+pre{
+    color: blueviolet
+}
+
